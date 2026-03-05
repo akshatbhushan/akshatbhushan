@@ -1,6 +1,6 @@
 ## Hi there 👋 , I am Akshat Bhushan
 # 💫 About Me:
-Student at IIT Madras , learning web development with data science and AI ML . Aspiring to be a full stack AI engineer.
+Student at IIT Madras, exploring web development alongside data science and AI/ML. My goal is to grow into a full-stack AI engineer who can build intelligent, end-to-end systems.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Student at IIT Madras , learning web development with data science and AI ML . A
 ![](https://nirzak-streak-stats.vercel.app/?user=akshatbhushan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbhushan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
